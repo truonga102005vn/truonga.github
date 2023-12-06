@@ -1,0 +1,136 @@
+.khung{
+    width: 360px;
+    height: 800px;
+    border: 1px solid black;
+    margin-left: 500px;
+    background: url("./im_chrismas.gif") repeat-y center;
+}
+.form1{
+    margin-top: 120px;
+    margin-left: 140px;
+    font-size:30px;
+    font-weight: 700;
+    color: white;
+    font-family: 'Poppins';
+}
+.form2{
+    font-size: 30px;
+    margin-left: 82px;
+    font-weight: 700;
+    color: white;
+}
+.ô1{
+    height: 48px;
+    width: 312px;
+    margin-left: 18px;
+    border-radius: 10px;
+    border: 1px solid #8b96a5;
+    outline: none;
+    color: #8b96a5;
+}
+.ô2{
+    margin-top: 25px;
+    height: 48px;
+    width: 312px;
+    margin-left: 18px;
+    border-radius: 10px;
+    border: 1px solid #8b96a5;
+    color: #8b96a5;
+    outline: none;
+    background-image: url(./eye_password.png);
+    background-repeat: no-repeat;
+    background-position: 285px;
+}
+.chu1{
+    color: #2f89fc;
+    margin-left: 117px;
+    margin-top: 10px;
+    font-size: 16px;
+}
+.ô3{
+    height: 48px;
+    width: 312px;
+    margin-left: 18px;
+    border-radius: 10px;
+    border: 1px solid #0e64d2;
+    outline: none;
+    margin-top: 20px;
+    background-color: #0e64d2;
+}
+.chu2{
+    margin-left: 66px;
+    font-size: 16px;
+    margin-top: 8px;
+
+}
+.chu3{
+    color: #2f89fc;
+    margin-top: 8px;
+    margin-left: 15px;
+    font-size: 16px;
+}
+.cuong{
+    display: flex;
+}
+.login_button{
+    height: 48px;
+    width: 312px;
+    margin-left: 18px;
+    border-radius: 10px;
+    border: 1px solid #0e64d2;
+    outline: none;
+    margin-top: 20px;
+    background-color: #0e64d2;
+    color: white;
+}
+.login_button {
+    cursor: pointer;
+}
+.or{
+    margin-left: 23px;
+    color: white;
+    margin-top: 10px;
+}
+.login_facebook{
+    height: 48px;
+    width: 312px;
+    margin-left: 18px;
+    border-radius: 10px;
+    border: 1px solid #1877f2;
+    outline: none;
+    margin-top: 20px;
+    background-color: #1877f2;
+    color: white;
+    background-image: url(./logo-fb.png);
+    background-repeat: no-repeat;
+    background-position: 10px;
+}
+.login_facebook {
+    cursor: pointer;
+}
+.login_Google{
+    height: 48px;
+    width: 312px;
+    margin-left: 18px;
+    border-radius: 10px;
+    border: 1px solid #8b96a5;
+    background-color: white;
+    color: #8b96a5;
+    background-image: url(./logo-gg.png);
+    background-repeat: no-repeat;
+    background-position: 10px;
+    margin-top: 20px;
+}
+.login_Google {
+    cursor: pointer;
+}
+.logo{
+    display: flex;
+    margin-top: 88px;
+    margin-left: 15px;
+}
+.chu_logo {
+    color: #8b96a5;
+    font-size: 16px;
+    margin-top: 5px;
+}
